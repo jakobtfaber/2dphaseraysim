@@ -1,0 +1,2 @@
+nprandseed  randseed     velocity  nscreens    trials    n_x     n_y    exrays
+38430340    3242202105    200000      51        200      1024    1024	300
