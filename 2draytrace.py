@@ -1,14 +1,11 @@
-# Adam Jussila
-# 11/1/2017
+# Jakob Faber
+# 11/1/2018
 # 1D_raypath.py - this code is intended to run a set of "photons" moving radially 
 # outward from a point source representing a pulsar. These photons will travel 
 # randomly with gassian deflections through several screens and be forced to hit
 # a specified point at the end, representing us as the observer recieving them.
 # It also will calculate the delay of a given photon at each step relative to a 
 # straight line path.
-
-# v2b - 3/23/18 - Adam & Dan - takes Adam's 3/23 code and adds Dan's
-#                 more general screen strength specification.
 
 import scipy.ndimage
 import numpy as np
