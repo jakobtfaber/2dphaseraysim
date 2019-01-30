@@ -1,4 +1,4 @@
-# Jakob Faber
+# Jakob Faber and Adam Jussila
 # 11/1/2018
 # 1D_raypath.py - this code is intended to run a set of "photons" moving radially 
 # outward from a point source representing a pulsar. These photons will travel 
